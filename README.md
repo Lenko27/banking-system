@@ -1,2 +1,2 @@
 # banking-system
-first try at java
+first project on java
